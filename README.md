@@ -16,8 +16,10 @@ Please feel free to explore my profile as well as my projects.<br>
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HUNK12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=AFE1AF&icon_color=097969&text_color=D3D3D3&bg_color=0,000000,097969" alt="ABSphreak's Github Stats">
-
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HUNK12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=AFE1AF&icon_color=097969&text_color=D3D3D3&bg_color=0,000000,097969" alt="HUNK12" /></p>
+  
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HUNK12&" alt="HUNK12" /></p>
+  
 </br>
 </br>
 <i>Random dev joke for you!</i><br>
