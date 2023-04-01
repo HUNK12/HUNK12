@@ -8,7 +8,6 @@
 
 <div align="center">
 
-Welcome to my Github profile. <br>
 Please feel free to explore my profile as well as my projects.<br>
 
 <i>Happy Coding!</i> 😊
